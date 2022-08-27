@@ -17,6 +17,6 @@
 
 ### Built with
 
--HTML Language
--CSS Pseudo-elements
+- HTML Language
+- CSS Pseudo-elements
 - Visual Studio Code
