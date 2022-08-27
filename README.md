@@ -19,4 +19,5 @@
 
 - HTML Language
 - CSS Pseudo-elements
+- CSS Animation
 - Visual Studio Code
