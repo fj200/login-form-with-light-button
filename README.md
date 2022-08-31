@@ -11,8 +11,8 @@
 
 ### Links
 
-- Repository URL: [View Code](https://github.com/romaleks/Todo-List)
-- Live Site URL: [Live Preview](https://romaleks.github.io/Todo-List/)
+- Repository URL: [View Code](https://github.com/fj200/login-form-with-light-button)
+- Live Site URL: [Live Preview](https://fj200.github.io/login-form-with-light-button/)
 
 
 ### Built with
